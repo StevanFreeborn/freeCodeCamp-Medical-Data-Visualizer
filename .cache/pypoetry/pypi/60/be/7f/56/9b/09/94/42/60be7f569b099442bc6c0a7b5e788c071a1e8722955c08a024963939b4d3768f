@@ -1,0 +1,1 @@
+9999999999{"name": "seaborn", "version": "0.9.0", "summary": "seaborn: statistical data visualization", "platform": "", "requires_dist": ["matplotlib (>=1.4.3)", "numpy (>=1.9.3)", "pandas (>=0.15.2)", "scipy (>=0.14.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
